@@ -1,0 +1,28 @@
+/*
+* Name
+* Due Date
+* Elephants */
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body { background-color: lightgray;
+       font-family: "arial black", sans-serif;
+       width: 85%;
+       margin: auto;
+
+}
+
+header {
+    background-color: blue;}
+
+main {
+    background-color: lightblue; }
+
+footer {
+    background-color: skyblue; }
